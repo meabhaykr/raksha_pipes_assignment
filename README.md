@@ -1,4 +1,4 @@
-**Raksha Pipes - Business Analyst Assignment**
+# **Raksha Pipes - Business Analyst Assignment**
 
 This repository contains the Python code to generate fake data and the MySQL database scripts to create the schema for Raksha Pipes.
 
