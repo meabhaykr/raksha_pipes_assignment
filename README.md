@@ -49,11 +49,3 @@ This will generate CSV files containing the fake data for each table.
 3. Import the CSV files into your MySQL database management tool.
 
 4. Run the `database_setup.sql` script in your MySQL database to create the tables with the specified schema.
-
-**Note:**
-
-This script creates a basic schema for demonstration purposes. You might need to modify it based on your specific requirements.
-
-**Next Steps**
-
-Next Steps of the assignment involves creating a dashboard in Power BI to visualize the data. The corresponding files and instructions will be added in a future commit.
