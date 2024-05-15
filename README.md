@@ -79,13 +79,13 @@ The interactive dashboard allows users to filter data by date range, product cat
 1. **Install the required Python library:**
 
     ```bash
-    pip install faker pandas mysql-connector-python
+    pip install faker
     ```
 
 2. **Run the data generation script:**
 
     ```bash
-    python data_generation.py
+    fake = Faker()
     ```
 
     This will generate CSV files containing the fake data for each table.
