@@ -54,4 +54,4 @@ This script creates a basic schema for demonstration purposes. You might need to
 
 **Next Steps**
 
-Step 3 of the assignment involves creating a dashboard in Power BI to visualize the data. The corresponding files and instructions will be added in a future commit.
+Next Steps of the assignment involves creating a dashboard in Power BI to visualize the data. The corresponding files and instructions will be added in a future commit.
