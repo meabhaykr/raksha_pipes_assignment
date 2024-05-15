@@ -1,7 +1,7 @@
 <h1 align="center">Raksha Pipes - Business Analyst Assignment</h1>
 
 <p align="center">
-    <img src="https://github.com/meabhaykr/raksha_pipes_assignment/blob/main/Raksha%20Pipes%20logo.png" alt="Raksha Pipes logo.png">
+    <img src="https://github.com/meabhaykr/raksha_pipes_assignment/blob/main/Raksha%20Pipes%20Banner.jpg" alt="Raksha Pipes Banner.jpg">
 </p>
 
 ## Overview
