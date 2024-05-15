@@ -111,7 +111,3 @@ The Power BI dashboard can be customized to include additional metrics and visua
 For detailed documentation and the assignment link, visit: [Raksha Pipe Assignment](https://drive.google.com/drive/folders/1o13pcNEo71kAT0p7O1KSnyz47NvZMwuw?usp=sharing).
 
 ---
-
-**Author:** Abhay Kumar  
-**Email:** meabhaykr@gmail.com  
-**GitHub:** [meabhaykr](https://github.com/meabhaykr)
