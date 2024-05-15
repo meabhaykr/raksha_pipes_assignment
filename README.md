@@ -2,7 +2,7 @@
 
 ![Power Bi Dashboard Image](https://github.com/meabhaykr/raksha_pipes_assignment/blob/main/Power%20Bi%20Dashboard%20Image.png)
 
-This repository contains the Python code to generate fake data and the MySQL database scripts to create the schema for Raksha Pipes.
+This repository contains the data management and visualization system built for Raksha Pipes. The system utilizes Python for data generation, MySQL for data storage, and Power BI for dashboard creation.
 
 **Data Generation**
 
