@@ -1,5 +1,3 @@
-Here's a draft for your GitHub README page covering Steps 1 and 2 for setting up the database in MySQL:
-
 **Raksha Pipes - Business Analyst Assignment**
 
 This repository contains the Python code to generate fake data and the MySQL database scripts to create the schema for Raksha Pipes.
