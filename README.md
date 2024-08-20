@@ -94,7 +94,7 @@ The interactive dashboard allows users to filter data by date range, product cat
 
 3. **Import the CSV files into your MySQL database management tool.**
 
-4. **Run the `database_setup.sql` script in your MySQL database to create the tables with the specified schema.**
+4. **Run the `mysql.sql` script in your MySQL database to create the tables with the specified schema.**
 
 5. **Open Power BI Desktop and connect to the MySQL database:**
 
