@@ -35,7 +35,7 @@ You can access the data generation script here: [Python Notebook](https://colab.
 
 ## Database Setup
 
-The `database_setup.sql` file contains SQL statements to create the MySQL database schema, which includes tables for:
+The `mysql.sql` file contains SQL statements to create the MySQL database schema, which includes tables for:
 
 - `customers` - Stores customer information (ID, name, address, phone, email)
 - `products` - Stores product details (ID, type, name, stock, price)
