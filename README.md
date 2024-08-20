@@ -20,7 +20,7 @@ This repository contains the data management and visualization system built for 
 
 ## Data Generation
 
-The `data_generation.py` file is used to generate realistic data using the Faker library. It creates data for the following entities:
+The `Raksha Pipe Power Bi Dashboard.pbix` file is used to generate realistic data using the Faker library. It creates data for the following entities:
 
 - Customers
 - Products
